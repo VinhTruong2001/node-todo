@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2f0553a2-5e46-47be-8bea-6e45c4a4cfb6/resourceGroups/NT132-M12-ATCL/providers/Microsoft.Web/sites/group3-nodeTodo",
+    "appService.deploySubpath": "."
+}
